@@ -291,3 +291,4 @@ async def songrab(ctx):
 
     os.remove(OUTPUT_FILENAME)
     os.remove(temp_path)
+bot.run('')
